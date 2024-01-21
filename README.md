@@ -1,8 +1,8 @@
 <h2>Introduction</h2>
-<p>SB2021 V1 Revision</p>
+<p>SB2021 Docking Database<sup>1</sup></p>
 
 <h2>Reference</h2>
 <ol>
-  <li>Flare V7. [https://www.cresset-group.com/softare/flare](https://www.cresset-group.com/software/flare/)https://www.cresset-group.com/software/flare</li>
-  <li></li>
+  <li>SB2021 Docking Database. Rizzo Lab. (Jan 21, 2024 accessed). <a href="https://ringo.ams.stonybrook.edu/index.php/SB2021.v1">https://ringo.ams.stonybrook.edu/index.php/SB2021.v1</a></li>
+  <li>Flare V7. <a href="https://www.cresset-group.com/softare/flare">https://www.cresset-group.com/software/flare</a></li>
 </ol>
