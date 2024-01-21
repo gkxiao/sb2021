@@ -1,5 +1,10 @@
 <h2>Introduction</h2>
 <p>SB2021 Docking Database is a molecular docking validation dataset released by Rizzo Lab<sup>1</sup> . However, the attached mol2 ligang files may cause many errors, therefore we used Flare V7<sup>2</sup> to check, fix, and republish the ligand structures.</p>
+<h2>Mateials</h2>
+<ol>
+  <li>ligand.tar.gz: co-crystal ligand structure in SDF format </li>
+  <li>prot.tar.gz: co-crystal protein structure in PDB format, the pocket is dry</li>
+</ol>
 
 <h2>Reference</h2>
 <ol>
