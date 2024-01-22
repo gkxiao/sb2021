@@ -8,7 +8,7 @@
   pyflare proteinprep.py -x 121p/121p_ref.sdf ../prot/121p.pdb  >> 121p/121p_prot.pdb
   </pre>
 </ol>
-<h2>Log</h2>
+<h2>History</h2>
 <ol>
   <li>2024-01-22. Remove PDB 1ITV from data set because the ligand is a sulfate anion.</li>
 </ol>
