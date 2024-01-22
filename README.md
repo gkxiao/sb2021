@@ -11,6 +11,7 @@
 <h2>History</h2>
 <ol>
   <li>2024-01-22. Remove PDB 1ITV from data set because the ligand is a sulfate anion.</li>
+  <li>2024-01-21. Release ligand data set in SDF format.</li>
 </ol>
 <h2>Reference</h2>
 <ol>
