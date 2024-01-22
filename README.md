@@ -7,6 +7,7 @@
   <pre lang="shell">
   pyflare proteinprep.py -x 121p/121p_ref.sdf ../prot/121p.pdb  >> 121p/121p_prot.pdb
   </pre>
+  <li>id.lst: list of all systems</li>
 </ol>
 <h2>History</h2>
 <ol>
