@@ -7,6 +7,7 @@
   <pre lang="shell">
   pyflare proteinprep.py -x 121p_ref.sdf ../prot/121p.pdb  >> 121p_prot.pdb
   </pre>
+  <p>Download link: <a href="https://pan.baidu.com/s/10ML10hNH5ku-O0crnOU_vQ">prot.tar.gz</a>, extracting code:ggny</p>
   <li>id.lst: list of all systems</li>
 </ol>
 <h2>History</h2>
